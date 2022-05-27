@@ -10,5 +10,3 @@ Aiming.FOV = 9.4
 Aiming.FOVSides = 25
 Aiming.HitChance = 110
 Aiming.ShowFOV = false
-
-
